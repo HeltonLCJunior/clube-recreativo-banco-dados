@@ -1,9 +1,35 @@
-# clube-recreativo-banco-dados
-Modelo de Clube
+# Sistema de Clube Recreativo
 
-Regras de Negócio
-Um sócio titular pode possuir vários dependentes;
-Cada sócio possui apenas um plano de assinatura;
-Os acessos às áreas de lazer são registrados com data e hora;
-Cada pagamento possui um método de pagamento associado;
-Dependentes e titulares são vinculados à entidade Pessoas.
+Projeto de modelagem e implementação de banco de dados desenvolvido utilizando MySQL Workbench.
+
+## Funcionalidades
+
+* Cadastro de sócios titulares
+* Cadastro de dependentes
+* Controle de pagamentos
+* Controle de acessos
+* Gerenciamento de áreas de lazer
+* Métodos de pagamento
+
+## Tecnologias
+
+* MySQL
+* SQL
+* MySQL Workbench
+* Git/GitHub
+
+## Estrutura do Projeto
+
+* Modelo lógico
+* Script SQL
+* Inserts
+* Consultas SQL
+
+## Conceitos aplicados
+
+* Chaves primárias e estrangeiras
+* Relacionamentos
+* Integridade referencial
+* Modelagem de banco de dados
+* Consultas SQL
+
